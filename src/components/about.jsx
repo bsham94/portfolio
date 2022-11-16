@@ -18,7 +18,7 @@ const About = () => {
             </div>
             <div>
                 <p>
-                  I am full-stack developer based out of Kitchener, Ontario.
+                  I am full-stack developer based out of Kitchener, Ontario. 
                   I've recently graduated from Wilfrid Laurier University with Degree in Computer Science. 
                   Before that, I completed a Software Engineering Diploma from Conestoga College. 
                   I have a passion for everything technology, music, and sports. 
