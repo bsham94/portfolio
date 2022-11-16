@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5086dbd7.css",
+    "main.js": "/static/js/main.3d4cc5ef.js",
+    "static/media/terra.jpg": "/static/media/terra.046263bdf2f0f4affb56.jpg",
+    "static/media/memories.jpg": "/static/media/memories.dd5ce9f75a1d4f8a3523.jpg",
+    "static/media/Python1.png": "/static/media/Python1.e66ea284340a211ca556.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/twig.jpg": "/static/media/twig.68fcb4cb9de8c13bf018.jpg",
+    "static/media/logo.svg": "/static/media/logo.96a3024a36345447762ed8d2a7f661e7.svg",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.5086dbd7.css.map": "/static/css/main.5086dbd7.css.map",
+    "main.3d4cc5ef.js.map": "/static/js/main.3d4cc5ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5086dbd7.css",
+    "static/js/main.3d4cc5ef.js"
+  ]
+}
