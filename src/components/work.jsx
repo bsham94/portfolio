@@ -3,6 +3,7 @@ import Terra from "../assets/terra.jpg";
 import Twig from "../assets/twig.jpg";
 import Memories from "../assets/memories.jpg";
 import Restaurant from "../assets/restaurant.png";
+import QRCode from "../assets/qr_code.png";
 
 const work = () => {
   return (
@@ -26,7 +27,7 @@ const work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 text-center">
+            <div className="opacity-0 group-hover:opacity-100 text-center ">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Restaurant
               </span>
@@ -40,6 +41,36 @@ const work = () => {
                   </button>
                 </a>
                 <a href="https://www.littledings.ca/" target="blank">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{
+              backgroundImage: `url(${QRCode})`,
+              "background-size": "100% 100%",
+              backgroundColor: "#ffffff",
+            }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100 text-center">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                QR Code Wordpress Plguin
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://github.com/bsham94/wp-qr-plugin"
+                  target="blank"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+                <a href="https://rescueqr.com/654abec8a878a/" target="blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
